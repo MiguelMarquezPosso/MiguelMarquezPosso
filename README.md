@@ -1,4 +1,4 @@
-## ¡Hola! Soy Miguel Ángel Márquez Posso 
+## ¡Hola! Soy Miguel Ángel Márquez Posso
 
 <p align="center">
   <strong>Estudiante de Ingeniería de Sistemas en la Pontificia Universidad Javeriana. Enfocado en desarrollo backend, analítica de datos y machine learning. Apasionado por crear soluciones tecnológicas con impacto real y colaborativo</strong>
