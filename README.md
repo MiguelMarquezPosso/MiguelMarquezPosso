@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">Miguel Márquez Posso</h1>
-
-<h2>👋 ¡Hola! Soy Miguel Márquez Posso</h2>
+## ¡Hola! Soy Miguel Márquez Posso 👋
 
 Estudiante de último semestre de **Ingeniería de Sistemas** en la Pontificia Universidad Javeriana. Enfocado en desarrollo backend, analítica de datos y machine learning. Apasionado por crear soluciones tecnológicas con impacto real y colaborativo.
 
