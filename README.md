@@ -1,7 +1,7 @@
-## ¡Hola! Soy Miguel Ángel Márquez Posso
+## Hi! I'm Miguel Ángel Márquez Posso
 
 <p align="center">
-  <strong>Estudiante de Ingeniería de Sistemas en la Pontificia Universidad Javeriana. Enfocado en desarrollo backend, analítica de datos y machine learning. Apasionado por crear soluciones tecnológicas con impacto real y colaborativo</strong>
+  <strong>Systems Engineering student at the Pontificia Universidad Javeriana. Focused on backend development, data analytics, and machine learning. Passionate about creating technological solutions that have a real and collaborative impact.</strong>
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 
 ---
 
-## 💻 Tecnologías & Herramientas
+## 💻 Technologies & Tools
 
-### ⚡ Lenguajes de Programación
+### ⚡ Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-cf1f1f?style=for-the-badge&logo=alchemy&logoColor=white" alt="SQLAlchemy"/>
 </p>
 
-### 🗄️ Bases de Datos
+### 🗄️ Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
 </p>
 
-### ⚙️ DevOps, Contenedores & Control de versiones
+### ⚙️ DevOps, Containers & Version Control
 <p>
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/PODMAN-892ca0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman"/>
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-### 📐 IDEs y Herramientas
+### 📐 IDEs and Tools
 <p>
   <img src="https://img.shields.io/badge/VSCODE-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
   <img src="https://img.shields.io/badge/INTELLIJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/RSTUDIO-75aadb?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio"/>
 </p>
 
-### 🧩 Otros
+### 🧩 Others
 <p>
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
