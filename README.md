@@ -1,11 +1,11 @@
 ## ¡Hola! Soy Miguel Ángel Márquez Posso 
 
 <p align="center">
-  <strong>Estudiante de Ingeniería de Sistemas</strong>
+  <strong>Estudiante de **Ingeniería de Sistemas** en la Pontificia Universidad Javeriana. Enfocado en desarrollo backend, analítica de datos y machine learning. Apasionado por crear soluciones tecnológicas con impacto real y colaborativo 🌱</strong>
 </p>
 
 <p align="center">
-  <span style="font-size:1.2em;">Bogotá D.C., Colombia</span>
+  <span style="font-size:1.2em;">📍 Bogotá D.C., Colombia</span>
 </p>
 
 <p align="center">
@@ -16,11 +16,6 @@
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-## 💬 Contacto
-
-Estudiante de **Ingeniería de Sistemas** en la Pontificia Universidad Javeriana. Enfocado en desarrollo backend, analítica de datos y machine learning. Apasionado por crear soluciones tecnológicas con impacto real y colaborativo.
 
 ---
 
