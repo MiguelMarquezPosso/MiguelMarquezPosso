@@ -1,7 +1,7 @@
 ## ¡Hola! Soy Miguel Ángel Márquez Posso 
 
 <p align="center">
-  <strong>Estudiante de **Ingeniería de Sistemas**</strong>
+  <strong>Estudiante de Ingeniería de Sistemas</strong>
 </p>
 
 <p align="center">
