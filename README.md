@@ -1,31 +1,32 @@
-## ¡Hola! Soy Miguel Márquez Posso 👋
-
-Estudiante de último semestre de **Ingeniería de Sistemas** en la Pontificia Universidad Javeriana. Enfocado en desarrollo backend, analítica de datos y machine learning. Apasionado por crear soluciones tecnológicas con impacto real y colaborativo.
-
----
-
-## 💬 Contacto
+## ¡Hola! Soy Miguel Ángel Márquez Posso 
 
 <p align="center">
-  <a href="mailto:miguelmarquezposso@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <strong>Estudiante de **Ingeniería de Sistemas**</strong>
+</p>
+
+<p align="center">
+  <span style="font-size:1.2em;">Bogotá D.C., Colombia</span>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-m%C3%A1rquez-posso-9bbbbb3b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/miguelmarquezposso" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/MiguelMarquezPosso" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://maps.app.goo.gl/MGLXv77CwiXa7PSh6" target="_blank">
-    <img src="https://img.shields.io/badge/Bogotá,%20Colombia-46A2F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <a href="mailto:miguelangelmarquezposso@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+---
+## 💬 Contacto
+
+Estudiante de **Ingeniería de Sistemas** en la Pontificia Universidad Javeriana. Enfocado en desarrollo backend, analítica de datos y machine learning. Apasionado por crear soluciones tecnológicas con impacto real y colaborativo.
 
 ---
 
 ## 💻 Tecnologías & Herramientas
 
-### 🖥️ Lenguajes de Programación
+### ⚡ Lenguajes de Programación
 <p>
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -59,7 +60,7 @@ Estudiante de último semestre de **Ingeniería de Sistemas** en la Pontificia U
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-### 🖥️ IDEs y Herramientas
+### 📐 IDEs y Herramientas
 <p>
   <img src="https://img.shields.io/badge/VSCODE-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
   <img src="https://img.shields.io/badge/INTELLIJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
